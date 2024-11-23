@@ -9,9 +9,9 @@ You can, however, download the latest release from [Releases](https://github.com
 
 ## Images
 
-![new_instance](https://imgur.com/Boz9hUp)
-![hovering](https://imgur.com/u9vRZaA)
-![clicked](https://imgur.com/LAvKxKm)
+<img src="https://i.imgur.com/Boz9hUp.png" width="400" alt="new_instance">
+<img src="https://i.imgur.com/u9vRZaA.png" width="400" alt="hovering">
+<img src="https://i.imgur.com/LAvKxKm.png" width="400" alt="clicked">
 
 ## Features
 
